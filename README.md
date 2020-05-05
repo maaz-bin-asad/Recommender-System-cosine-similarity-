@@ -1,2 +1,3 @@
-# Recommender-System-cosine-similarity-
-A recommender engine built on Google colab using cosine similarity
+The engine is a part of capstone project developed by Code Heroku. 
+It is built on Google collab
+
